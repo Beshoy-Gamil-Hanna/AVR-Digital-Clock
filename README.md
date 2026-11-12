@@ -1,4 +1,4 @@
-# AVR_CLOCK
+# AVR Digital Clock
 
 A feature-rich digital clock and time-management system built with the **ATmega32** microcontroller using **Embedded C**. This project was developed as part of the **Embedded Systems Based on AVR Diploma at IMT School**.
 
